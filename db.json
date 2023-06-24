@@ -1,0 +1,83 @@
+[
+  {
+    "name": "John",
+    "course_id": "ABC123",
+    "playlist_url": "https://example.com/playlist1",
+    "description": "This is a course about programming",
+    "owner": "Jane Doe",
+    "channel_link": "https://example.com/channel1"
+  },
+  {
+    "name": "Emma",
+    "course_id": "DEF456",
+    "playlist_url": "https://example.com/playlist2",
+    "description": "This is a course about mathematics",
+    "owner": "John Smith",
+    "channel_link": "https://example.com/channel2"
+  },
+  {
+    "name": "Sophia",
+    "course_id": "GHI789",
+    "playlist_url": "https://example.com/playlist3",
+    "description": "This is a course about science",
+    "owner": "Emily Johnson",
+    "channel_link": "https://example.com/channel3"
+  },
+  {
+    "name": "Michael",
+    "course_id": "JKL012",
+    "playlist_url": "https://example.com/playlist4",
+    "description": "This is a course about history",
+    "owner": "Daniel Wilson",
+    "channel_link": "https://example.com/channel4"
+  },
+  {
+    "name": "Olivia",
+    "course_id": "MNO345",
+    "playlist_url": "https://example.com/playlist5",
+    "description": "This is a course about literature",
+    "owner": "Sophie Brown",
+    "channel_link": "https://example.com/channel5"
+  },
+  {
+    "name": "Noah",
+    "course_id": "PQR678",
+    "playlist_url": "https://example.com/playlist6",
+    "description": "This is a course about geography",
+    "owner": "David Taylor",
+    "channel_link": "https://example.com/channel6"
+  },
+  {
+    "name": "Ava",
+    "course_id": "STU901",
+    "playlist_url": "https://example.com/playlist7",
+    "description": "This is a course about art",
+    "owner": "Oliver Anderson",
+    "channel_link": "https://example.com/channel7"
+  },
+  {
+    "name": "William",
+    "course_id": "VWX234",
+    "playlist_url": "https://example.com/playlist8",
+    "description": "This is a course about music",
+    "owner": "Sophia Rodriguez",
+    "channel_link": "https://example.com/channel8"
+  },
+  {
+    "name": "Isabella",
+    "course_id": "YZA567",
+    "playlist_url": "https://example.com/playlist9",
+    "description": "This is a course about sports",
+    "owner": "Matthew Thompson",
+    "channel_link": "https://example.com/channel9"
+  },
+  {
+    "name": "James",
+    "course_id": "BCD890",
+    "playlist_url": "https://example.com/playlist10",
+    "description": "This is a course about languages",
+    "owner": "Emma White",
+    "channel_link": "https://example.com/channel10"
+  }
+]
+
